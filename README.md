@@ -1,0 +1,1 @@
+this simple template to learn how to make your website responsive with css js 
